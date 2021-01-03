@@ -10,8 +10,8 @@ public class Configuration {
     private int value2;
 
     public Configuration(){
-        this.value2 = 2;
-        this.value1 = 3;
+        this.value2 = 255;
+        this.value1 = 23;
     }
 
     public Configuration(int value1, int value2) {
